@@ -1,0 +1,11 @@
+C:\Users\elife\OneDrive\Documents\C#-vscode\bin\Debug\netcoreapp3.1\C#-vscode.exe
+C:\Users\elife\OneDrive\Documents\C#-vscode\bin\Debug\netcoreapp3.1\C#-vscode.deps.json
+C:\Users\elife\OneDrive\Documents\C#-vscode\bin\Debug\netcoreapp3.1\C#-vscode.runtimeconfig.json
+C:\Users\elife\OneDrive\Documents\C#-vscode\bin\Debug\netcoreapp3.1\C#-vscode.runtimeconfig.dev.json
+C:\Users\elife\OneDrive\Documents\C#-vscode\bin\Debug\netcoreapp3.1\C#-vscode.dll
+C:\Users\elife\OneDrive\Documents\C#-vscode\bin\Debug\netcoreapp3.1\C#-vscode.pdb
+C:\Users\elife\OneDrive\Documents\C#-vscode\obj\Debug\netcoreapp3.1\C#-vscode.csprojAssemblyReference.cache
+C:\Users\elife\OneDrive\Documents\C#-vscode\obj\Debug\netcoreapp3.1\C#-vscode.AssemblyInfoInputs.cache
+C:\Users\elife\OneDrive\Documents\C#-vscode\obj\Debug\netcoreapp3.1\C#-vscode.AssemblyInfo.cs
+C:\Users\elife\OneDrive\Documents\C#-vscode\obj\Debug\netcoreapp3.1\C#-vscode.dll
+C:\Users\elife\OneDrive\Documents\C#-vscode\obj\Debug\netcoreapp3.1\C#-vscode.pdb
